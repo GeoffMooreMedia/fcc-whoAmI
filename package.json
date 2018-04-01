@@ -2,6 +2,7 @@
   "name": "WhoAmI Microservice",
   "dependencies": {
     "express": "^4.14.0",
+    "ipware": "^1.0.0",
     "s-is": "^1.4.15"
   },
   "main": "server.js",
